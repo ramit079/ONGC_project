@@ -13,7 +13,7 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_huggingface import HuggingFaceEmbeddings
 from streamlit2 import uploadname
 # import google.generativeai as genai
-# client = genai.Client(api_key="AIzaSyDjuSvypHHBC1KbLGfusdQgRIp7CdseCYA")
+# client = genai.Client(api_key="")
 from sentence_transformers import SentenceTransformer
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 
